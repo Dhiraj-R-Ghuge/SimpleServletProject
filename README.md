@@ -18,8 +18,7 @@ This is a Java-based web application built using **JSP (JavaServer Pages)** and 
 - Servlets
 - Apache Tomcat (or any servlet container)
 - HTML/CSS/JavaScript (for frontend)
-- JDBC (if using database)
-- MySQL or any relational database (optional)
+  
 
 ## 🚀 Getting Started
 
